@@ -89,7 +89,7 @@ class _MyHomePageState extends State<MyHomePage>{
           onTap: _onItemTapped,
         ),
         appBar: AppBar(
-          title: Text("Car-Plus"),
+          title: Text("Demo1"),
           // leading: GestureDetector(
           //   onTap: () { },
           //   child: Icon(
